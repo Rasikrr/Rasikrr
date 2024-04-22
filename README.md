@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Go Backend Developing**
 
 - 📫 How to reach me **rasul.turtulov@gmail.com**
+  
+- ✈️ Telegram *@Rasikrr*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
