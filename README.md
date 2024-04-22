@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasikrr&show_icons=true&locale=en&layout=compact" alt="rasikrr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasikrr&show_icons=true&locale=en" alt="rasikrr" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Rasikrr)
