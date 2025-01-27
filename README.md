@@ -8,6 +8,8 @@
 - 📫 How to reach me **rasul.turtulov@gmail.com**
   
 - ✈️ Telegram [@Rasikrr](https://t.me/Rasikrr)
+
+- 💊 Currently Working in [Daribar](https://daribar.kz/)
   
 - 💬 Linkedin [Link](https://www.linkedin.com/in/rasikrr/)
 
