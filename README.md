@@ -8,6 +8,8 @@
 - 📫 How to reach me **rasul.turtulov@gmail.com**
   
 - ✈️ Telegram [@Rasikrr](https://t.me/Rasikrr)
+  
+- 💬 Linkedin [Link](https://www.linkedin.com/in/rasikrr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
